@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "assistant-bot"
+version = "0.1.0"
+description = "CLI Assistant Bot"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
